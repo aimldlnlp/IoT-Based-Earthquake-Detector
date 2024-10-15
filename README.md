@@ -1,5 +1,7 @@
 # IoT-Based Earthquake Detector
 
+**Course:** RKS201: Embedded Systems and IoT
+
 ## Introduction
 
 Earthquakes are generally caused by the movement of tectonic plates, resulting in vibrations that can cause significant damage to buildings and infrastructure. Effective disaster mitigation, such as an earthquake early warning system, is crucial for earthquake-prone countries like Indonesia to reduce risks and impacts. This project proposes a prototype titled **"IoT-Based Earthquake Detector"** designed to detect vibrations with high accuracy.
